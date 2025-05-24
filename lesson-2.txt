@@ -1,0 +1,4 @@
+git init: đưa new files/ files được chỉnh sửa vào vùng Working Directory
+git add <filename>: đưa filename vào vùng staging (chuẩn bị commit)
+git add .: đưa tất cả các filename các thay đổi/ tạo mới vào vùng staging (chuẩn bị commit)
+git commit -m "message": đưa filename ở vùng staging vào vùng commit -> có thể được push vào branch
