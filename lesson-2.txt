@@ -1,4 +1,35 @@
-git init: đưa new files/ files được chỉnh sửa vào vùng Working Directory
+# Lesson 2
+1. Explain Git Command:
+git init: đưa new files/ files được chỉnh sửa vào vùng Working Directory (init project - tạo folder git)
 git add <filename>: đưa filename vào vùng staging (chuẩn bị commit)
 git add .: đưa tất cả các filename các thay đổi/ tạo mới vào vùng staging (chuẩn bị commit)
 git commit -m "message": đưa filename ở vùng staging vào vùng commit -> có thể được push vào branch
+
+2. Flow Git with command
+a. Tạo 3 file: file1, file2, file3
+Local: file1, file2, file3
+Working Directory: 
+Staging Area: 
+Repository: 
+b. Chạy lệnh: git init
+Local: file1, file2, file3
+Working Directory: file1, file2, file3
+Staging Area: 
+Repository:
+c. Chạy lệnh: git commit -m”init project”
+-> nothing happens
+d. Chạy lệnh: git add file1
+Local: file1, file2, file3
+Working Directory: file2, file3
+Staging Area: file1
+Repository:
+e. Chạy lệnh: git commit -m”add file1”
+Local: file1, file2, file3
+Working Directory: file2, file3
+Staging Area: 
+Repository: file1
+f. Chạy lệnh: git add file
+-> nothing happens
+
+3. git push
+
