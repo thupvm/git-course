@@ -75,7 +75,7 @@ Repository:
 
 b. Tạo file file1.txt, file2.txt, oops/file3.txt.
 Local: folder lesson-3-git, file1.txt, file2.txt, oops/file3.txt
-Working Directory: older lesson-3-git, file1.txt, file2.txt, oops/file3.txt
+Working Directory: folder lesson-3-git, file1.txt, file2.txt, oops/file3.txt
 Staging Area: 
 Repository: 
 

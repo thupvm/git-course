@@ -1,4 +1,4 @@
-# Lesson 2
+# Lesson 2 - Bài tập về Git
 1. Explain Git Command:
 git init: đưa new files/ files được chỉnh sửa vào vùng Working Directory (init project - tạo folder git)
 git add <filename>: đưa filename vào vùng staging (chuẩn bị commit)

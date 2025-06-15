@@ -1,0 +1,11 @@
+1. Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ gì?
+Cấu trúc DOM cơ bản gồm những thẻ: 
+thead, tbody, div, h1 tới h6, table, input, textarea, list, dropdown, button, img, form, checkbox, radiobutton, datepicker, slider, iframe
+
+2. Hãy mô tả cấu trúc html của 1 bảng (table)
+table
+    thead
+        tr/th
+    tbody
+        tr -> td
+3. Push bài tập lên GitHub.
