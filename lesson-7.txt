@@ -1,0 +1,2 @@
+- git stash: lưu các công việc đang làm lại vào 1 vùng nhớ “tạm”
+- git stash pop: Lấy các công việc trong vùng nhớ tạm ra
